@@ -13,6 +13,13 @@ public class Steps {
 	@Given("A calculator")
 	public void a_calculator() {
 		calc=new Calculator();
+		
+		
+		
+		
+		
+		
+		
 	}
 
 	@When("the input is {string} and {string}")
